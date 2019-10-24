@@ -3,3 +3,5 @@ To run the page:
 2) Open a terminal. Use cd to move at the root of the project folder.
 3) Launch: $ bokeh serve example --show
 (It will run a tornado server on your localhost and automatically open a browser page on the corresponding address)
+
+The password for this page is 'test', without the brackets.
